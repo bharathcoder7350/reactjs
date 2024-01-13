@@ -1,0 +1,13 @@
+html, body{
+  padding: 10px;
+  margin: 0;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+iframe{
+  border-radius: 10px;
+  margin: 10px;
+  width: 97vw;
+}
